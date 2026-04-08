@@ -1,6 +1,6 @@
 /**
  * Task Management System
- * 
+ *
  * This file contains the types, interfaces, and implementations for a task management system.
  * Comments give hints on what needs to be implemented.
  */
@@ -10,7 +10,7 @@
 // ==========================================
 
 // Define the possible statuses for a task: TaskStatus, PriorityLevel, TaskFrequency
-e
+
 // ==========================================
 // Interfaces
 // ==========================================
@@ -30,4 +30,3 @@ e
 // ==========================================
 // Generic Utility Functions: filterTasks, sortTasks
 // ==========================================
-
