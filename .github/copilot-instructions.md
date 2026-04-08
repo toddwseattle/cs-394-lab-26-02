@@ -138,7 +138,7 @@ Students should satisfy all of the following:
 - Suggest incremental debugging steps
 - Suggest commit timing and concise commit messages
 - help with git commands and GitHub workflow if needed
-- help with running node, npm, and interpreting build/test output
+- help with running node, npm, tsc, and interpreting build/test output
 - Provide short, local code examples tied to one failing test
 
 ---
