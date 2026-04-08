@@ -1,4 +1,4 @@
-# C394 Lab 01 - TypeScript Type aliases, interfaces, and generics  Lab
+# C394 Lab 02 - TypeScript Type aliases, interfaces, and generics  Lab
 
 ## Overview
 In this lab, you will build a simple task management system using TypeScript. You'll practice working with interfaces, type aliases, and generics. You will also get exposure to creating a node.js application that uses TypeScript, and running a test suite using Jest.
